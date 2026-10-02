@@ -1,0 +1,31 @@
+Shopify App Configuration
+
+App Name:
+Shopify Product Manager
+
+Development Store:
+test-app-store-ihi5rltl.myshopify.com
+
+API:
+Shopify Admin GraphQL API
+
+API Version:
+2026-10
+
+Authentication:
+Shopify Client Credentials Grant
+
+Webhook:
+PRODUCTS_UPDATE
+
+Webhook Endpoint:
+/webhooks/products/update
+
+Backend:
+Node.js + Express
+
+Frontend:
+React + Vite
+
+Database:
+MySQL
